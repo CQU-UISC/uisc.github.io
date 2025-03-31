@@ -1,6 +1,5 @@
 ---
 permalink: /
-excerpt: "<img src='/images/uisc/3.png'>"
 title: "Ubiquitous Intelligent Sensing Computing"
 author_profile: true
 redirect_from: 
