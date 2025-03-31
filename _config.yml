@@ -23,9 +23,9 @@ repository               : "CQU-UISC/uisc.github.io"
 author:
   # Biographic information
   avatar           : "UISC.png"
-  name             : "UISC"
+  name             : "Ubiquitous Intelligent Sense Computing"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "智能普适计算"
   location         : "China"
   employer         : "Chongqing University"
   uri              : # URL
